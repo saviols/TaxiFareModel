@@ -1,0 +1,15 @@
+artifact_uri: file:///home/savio/code/saviols/TaxiFareModel/mlruns/1/4c5991c5e0f34a5190150ee97bf48e4e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 4c5991c5e0f34a5190150ee97bf48e4e
+run_uuid: 4c5991c5e0f34a5190150ee97bf48e4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1627413420470
+status: 1
+tags: []
+user_id: unknown
